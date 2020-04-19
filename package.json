@@ -1,0 +1,25 @@
+{
+  "name": "input-mask.js",
+  "version": "1.0.0",
+  "description": "input mask library for javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akifcan/input-mask.js.git"
+  },
+  "keywords": [
+    "mask",
+    "input",
+    "validated",
+    "fields"
+  ],
+  "author": "Akifcan Kara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akifcan/input-mask.js/issues"
+  },
+  "homepage": "https://github.com/Akifcan/input-mask.js#readme"
+}
