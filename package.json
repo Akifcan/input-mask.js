@@ -1,6 +1,6 @@
 {
   "name": "input-mask.js",
-  "version": "1.0.0",
+  "version": "1.5.1",
   "description": "input mask library for javascript",
   "main": "main.js",
   "scripts": {

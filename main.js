@@ -3,7 +3,6 @@ const inputs = document.querySelectorAll('.mask')
 inputs.forEach(input => {
 	input.addEventListener('keydown', function(e){
 		let masks = input.dataset.mask.split('')
-		console.log(masks)
 		let checkMaskLength = input.value.length
 		const numberRegex = new RegExp('^[0-9]$') 
 		const letterRegex = new RegExp('^[a-zA-Z]+$')
