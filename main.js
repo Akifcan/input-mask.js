@@ -9,9 +9,7 @@ inputs.forEach(input => {
 		const numberRegex = new RegExp('^[0-9]$') 
 		const letterRegex = new RegExp('^[a-zA-Z]+$')
 
-		console.log(masks)
-		console.log(checkMaskLength)
-		console.log(masks[checkMaskLength])
+
 
 		let tempRegexMask
 		let tempRegexVal
